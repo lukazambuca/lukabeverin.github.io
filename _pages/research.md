@@ -3,8 +3,8 @@ permalink: /research/
 title: "Research & Projects"
 ---
 
-### Estimating the Tail Index of a Truncated Extened Pareto Model ###
-Thesis completed with distinction as a part of BSc (Hons) Mathematical Statistics at University of Pretoria.
+1. ### Estimating the Tail Index of a Truncated Extened Pareto Model ###
+Thesis part of BSc (Hons) Mathematical Statistics at University of Pretoria (Thesis completed with distinction).
 
 **Abstract:**
 
