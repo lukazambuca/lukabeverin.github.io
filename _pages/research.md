@@ -27,3 +27,11 @@ corporate, mid-size, and small-business clients. The challenge was to build and 
 that can analyze historical data and predict 5 separate key performance indicators (KPIs) on the radio
 access networks (RAN), up to 2 hours in advance with 85% accuracy. For this challenge I implemented
 a Long short-term memory (LSTM) network and placed 2nd overall.
+  
+#### Learning Manim (3Blue1Brown Mathematical Animation Engine)
+ 
+A visual representation of Pythagoras' Theorem with the use of the Python manim library 
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/<l4FC6mIRyNQ>/0.jpg)](https://www.youtube.com/watch?v=l4FC6mIRyNQ "Everything Is AWESOME")
+
+  
