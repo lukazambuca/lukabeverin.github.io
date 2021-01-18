@@ -30,8 +30,15 @@ a Long short-term memory (LSTM) network and placed 2nd overall.
   
 #### <ins>Learning Manim 
  
-<sub><sup> Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). To better understand how Grant makes those amazing videos I decided to have a go at it myself. For this miniture project I aimed to present a intuitive and visual representation of Pythagoras' Theorem with the use of the Python manim library. The link to the code can be found [here](https://github.com/lukazambuca/Projects/blob/master/pythag.py). Click on the image below to view the video in all its glory. 
+<sub><sup> Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). To better understand how Grant makes those amazing videos I decided to have a go at it myself. For this miniture project I aimed to present a intuitive and visual representation of Pythagoras' Theorem. The link to the code can be found at my [Github](https://github.com/lukazambuca/Projects/blob/master/pythag.py). Click on the image below to view the YouTube video in all its glory. 
 
 [![Pythagoras Theorem](https://img.youtube.com/vi/l4FC6mIRyNQ/0.jpg)](https://www.youtube.com/watch?v=l4FC6mIRyNQ "Pythagoras Theorem")
 
+#### <ins> Covid slackbot
+
+<sub><sup> @Ronabot is a simple Slackbot :robot: that retuns COVID-19 summary statistics for the World and countries individually. 
+
+> Want to see the bot in action? Check out the [youtube video](https://www.youtube.com/watch?v=Qv25TKOm8RQ)
+ 
+![alt text](https://github.com/lukazambuca/Slackbot/blob/master/screenshots/Screenshot%202020-04-09%20at%2011.34.15.png)
   
