@@ -40,8 +40,6 @@ a Long short-term memory (LSTM) network and placed 2nd overall.
   
 [![Covid Slackbot](https://img.youtube.com/vi/Qv25TKOm8RQ/0.jpg)](https://www.youtube.com/watch?v=Qv25TKOm8RQ "Covid Slackbot")
  
-![alt text](https://github.com/lukazambuca/Slackbot/blob/master/screenshots/Screenshot%202020-04-09%20at%2011.34.15.png)
-
-Source code can be found on my github [page](https://github.com/lukazambuca/Slackbot)
+<sub><sup> Source code can be found on my github [page](https://github.com/lukazambuca/Slackbot)
 
   
