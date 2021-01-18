@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Luka Beverin"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Data Scientist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
