@@ -1,6 +1,6 @@
 main:
   - title: "Posts"
-    url: 
+    url: /
   - title: "Research/Projects"
     url: /research/
   - title: "About"
