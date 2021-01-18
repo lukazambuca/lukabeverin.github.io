@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research & Projects"
 ---
 
- #### <ins>Estimating the Tail Index for a Truncated Extened Pareto Model (2019)
+#### <ins>Estimating the Tail Index for a Truncated Extened Pareto Model (2019)
 
 ##### Abstract:
 
