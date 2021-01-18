@@ -36,9 +36,12 @@ a Long short-term memory (LSTM) network and placed 2nd overall.
 
 #### <ins> Covid slackbot
 
-<sub><sup> @Ronabot is a simple Slackbot :robot: that retuns COVID-19 summary statistics for the World and countries individually. 
-
-> Want to see the bot in action? Check out the [youtube video](https://www.youtube.com/watch?v=Qv25TKOm8RQ)
+<sub><sup> @Ronabot is a simple Slackbot :robot: that retuns COVID-19 summary statistics for the World and countries individually. Part of Topcoder Hackathon. My first taste of Java and nodejs. 
+  
+[![Covid Slackbot](https://img.youtube.com/vi/Qv25TKOm8RQ/0.jpg)](https://www.youtube.com/watch?v=Qv25TKOm8RQ "Covid Slackbot")
  
 ![alt text](https://github.com/lukazambuca/Slackbot/blob/master/screenshots/Screenshot%202020-04-09%20at%2011.34.15.png)
+
+Source code can be found on my github [page](https://github.com/lukazambuca/Slackbot)
+
   
