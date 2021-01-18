@@ -28,9 +28,9 @@ that can analyze historical data and predict 5 separate key performance indicato
 access networks (RAN), up to 2 hours in advance with 85% accuracy. For this challenge I implemented
 a Long short-term memory (LSTM) network and placed 2nd overall.
   
-#### <ins>Learning Manim (3Blue1Brown Mathematical Animation Engine)
+#### <ins>Learning Manim 
  
-<sub><sup> A visual representation of Pythagoras' Theorem with the use of the Python manim library 
+<sub><sup> Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). To better understand how Grant makes those amazing videos I decided to have a go at it myself. For this miniture project I aimed to present a intuitive and visual representation of Pythagoras' Theorem with the use of the Python manim library. The link to the code can be found [here](https://github.com/lukazambuca/Projects/blob/master/pythag.py). Click on the image below to view the video in all its glory. 
 
 [![Pythagoras Theorem](https://img.youtube.com/vi/l4FC6mIRyNQ/0.jpg)](https://www.youtube.com/watch?v=l4FC6mIRyNQ "Pythagoras Theorem")
 
