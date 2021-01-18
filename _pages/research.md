@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research & Projects"
 ---
 
-#### Estimating the Tail Index for a Truncated Extened Pareto Model (2019)
+ #### <ins>Estimating the Tail Index for a Truncated Extened Pareto Model (2019)
 
 ##### Abstract:
 
@@ -19,7 +19,7 @@ truncated EPD on truncated extremes has not been considered in literature.
 
 <sub><sup>Thesis in partial fullfilment of BSc (Hons) Mathematical Statistics at University of Pretoria (thesis completed with distinction)</sup></sub>
 
-#### Topcoder - KPIs prediction challenge
+#### <ins>Topcoder - KPIs prediction challenge
 
 <sub><sup> Topcoder is a crowdsourcing company with an open global community of competitive programmers.
 Topcoder pays community members for their work on the projects and sells community services to
@@ -28,7 +28,7 @@ that can analyze historical data and predict 5 separate key performance indicato
 access networks (RAN), up to 2 hours in advance with 85% accuracy. For this challenge I implemented
 a Long short-term memory (LSTM) network and placed 2nd overall.
   
-#### Learning Manim (3Blue1Brown Mathematical Animation Engine)
+#### <ins>Learning Manim (3Blue1Brown Mathematical Animation Engine)
  
 <sub><sup> A visual representation of Pythagoras' Theorem with the use of the Python manim library 
 
