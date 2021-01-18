@@ -3,11 +3,9 @@ permalink: /research/
 title: "Research & Projects"
 ---
 
-1. ### Estimating the Tail Index of a Truncated Extened Pareto Model ###
-Thesis part of BSc (Hons) Mathematical Statistics at University of Pretoria (Thesis completed with distinction).
+## Estimating the Tail Index of a Truncated Extened Pareto Model (2019)
 
 **Abstract:**
-
 
 In extreme value statistics, the Pareto distribution (PD) is a good fit to relative exceedances
 above a predetermined threshold. However, the PD typically requires a high threshold, leaving an
@@ -18,3 +16,5 @@ or natural cause. We therefore purpose a truncated Bayesian estimator of the EVI
 Pareto distribution (EPD). We investigate the performance of our estimator in comparison to other
 estimators through a simulation study. The novelty of this research report is that the fitting of a
 truncated EPD on truncated extremes has not been considered in literature. 
+
+Thesis in partial fullfilment of BSc (Hons) Mathematical Statistics at University of Pretoria (thesis completed with distinction)
