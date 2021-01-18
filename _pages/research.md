@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Contact"
+title: "Research & Projects"
 ---
 
 ## Estimating the Tail Index of a Truncated Extened Pareto Model
