@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Luka Beverin
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > Luka Beverin resume website
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
@@ -64,7 +61,7 @@ plugins:
 author:
   name   : "Luka Beverin"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Current Master of Statistics and Data Science student at KU Leuven. Interested in the fields of data Science, machine learning, health care analytics and financial mathematics."
+  bio    : "I am a current Master of Statistics and Data Science student at KU Leuven. Interested in the fields of data Science, machine learning, health care analytics and financial mathematics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
