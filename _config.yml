@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Luka Beverin"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Data Scientist"
+  bio    : "Current Master of Statistics and Data Science student at KU Leuven. Interested in the fields of data Science, machine learning, health care analytics and financial mathematics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
