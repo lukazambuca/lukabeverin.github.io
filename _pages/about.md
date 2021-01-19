@@ -21,6 +21,6 @@ As a current Masters in Statistics student, Luka is eager to simplify complex to
 
 ### CV :closed_book:
 
-My CV is available [here](https://lukazambuca.github.io/assets/Luka_Beverin_CV.pdf).
+My CV is available [here](https://lukazambuca.github.io/assets/images/Luka_Beverin_CV.pdf).
 
 
