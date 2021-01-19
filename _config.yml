@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Luka Beverin
 email:
-description: > Luka Beverin resume website
+description: > - #'Luka Beverin resume website'
+Luka Beverin Website
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
